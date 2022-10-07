@@ -27,7 +27,7 @@
 .logo {
     width: 44px;
     height: 32px;
-    background-image: url(../Images/white-logo.png);
+    background-image: url(https://i.pinimg.com/originals/11/7d/98/117d9897b92e9587ec087691a95479b0.png);
     background-size: contain;
 
 }
@@ -72,7 +72,7 @@
 }
 
 .sticky .logo {
-    background-image: url(../Images/black-logo.png);
+    background-image: url(https://www.seekpng.com/png/full/325-3255209_bleach-logo-png-bleach-logo.png);
 }
 
 .sticky .navbar-menu a {
@@ -86,7 +86,7 @@
 #home {
     height: 100vh;
     min-height: 500px;
-    background: url(../Images/bg.jpg) no-repeat center;
+    background: url(https://www.profesionalreview.com/wp-content/uploads/2020/06/Ordenador-en-el-suelo-o-en-la-mesa-03-scaled.jpg) no-repeat center;
     background-size: cover;
     background-attachment: fixed;
 
@@ -103,7 +103,7 @@
 
 #home .content {
     width: 100%;
-    color: #fff;
+    color: whitesmoke;
 }
 
 #home .content h1 {
